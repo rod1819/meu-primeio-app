@@ -20,3 +20,5 @@ class MainActivity : AppCompatActivity() {
 }
 //criar um valor dentro da string.xml
 //e trocar o texto do xml e tornar intelnacional
+
+//aaa
